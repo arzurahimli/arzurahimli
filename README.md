@@ -16,6 +16,6 @@
 
 ## 📱 Connect with me 
 You can find me on the following social media platforms or send me an email:
-* [LinedIn](https://www.linkedin.com/in/arzu-rahimli/)
+* [LinkedIn](https://www.linkedin.com/in/arzu-rahimli/) 
 * [Tableau](https://public.tableau.com/app/profile/arzu.rahimli)
 * [E-mail](mailto:rahimleearzu@gmail.com)
