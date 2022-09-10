@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------
-<img src ='https://github.com/arzurahimli/arzurahimli/blob/main/12.png'  width="1000" height="auto"/>
+<img src ='https://github.com/arzurahimli/arzurahimli/blob/main/Overview.png'  width="1500" height="auto"/>
 
 ------------------------------------------------------------------------------------------------------
 ### 🔨 Languages and Tools:
