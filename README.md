@@ -16,6 +16,6 @@
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
-* [LinkedIn](https://www.linkedin.com/in/davebitter)
+* <a href="https://LINKEDIN.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/LINKEDIN.png" alt="LINKEDIN" height="15px"/> </a>(https://www.linkedin.com/in/arzu-rahimli/)
 * [Tableau](https://public.tableau.com/app/profile/arzu.rahimli)
 * [E-mail](mailto:rahimleearzu@gmail.com)
