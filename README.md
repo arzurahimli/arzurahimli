@@ -3,13 +3,14 @@
 
 ------------------------------------------------------------------------------------------------------
 ### 🔨 Languages and Tools:
-<p><img src="https://img.shields.io/badge/sql-0078D6?logo=sql&amp;logoColor=white&amp;style=for-the-badge" alt="sql">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/excel%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=excel&amp;logoColor=white" alt="Excel"> 
-<img src="https://img.shields.io/badge/r%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="r">
-<img src="https://img.shields.io/badge/googlesheets%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=googlesheets&amp;logoColor=white" alt="googlesheets">
-<img src="https://img.shields.io/badge/tableau-0078D6?logo=tableau&amp;logoColor=white&amp;style=for-the-badge" alt="tableau">
-<img src="https://img.shields.io/badge/powerbi%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="PowerBI"></p>
+<a href="https://SQL.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/SQL.png" alt="SQL" height="42px"/> </a>
+<a href="https://PYTHON.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/PYTHON.png" alt="PYTHON" height="42px"/> </a>
+<a href="https://EXCEL.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/EXCEL.png" alt="EXCEL" height="42px"/> </a>
+<a href="https://GOOGLESHEETS.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/SHEETS.png" alt="GOOGLESHEETS" height="42px"/> </a>
+<a href="https://TABLEAU.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/TABLEAU.png" alt="TABLEAU" height="42px"/> </a>
+<a href="https://POWERBI.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/POWERBI.png" alt="POWERBI" height="42px"/> 
+
+
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
