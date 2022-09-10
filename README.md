@@ -10,7 +10,9 @@
 <a href="https://TABLEAU.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/TABLEAU.png" alt="TABLEAU" height="42px"/> </a>
 <a href="https://POWERBI.org/" target="_blank"> <img align="left" src="https://github.com/arzurahimli/TOOL-ICONS/blob/main/POWERBI.png" alt="POWERBI" height="42px"/> 
 
-
+<BR>
+  <BR>
+<BR>
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
